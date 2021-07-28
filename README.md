@@ -19,6 +19,7 @@ Or install through CLI:
 ### **JavaScript**
 ![JS Screenshot](https://github.com/Prabodhan29/blush-syntax-forAtom/blob/main/images/js.png?raw=true)
 
+
 ### **HTML**
 ![HTML Screenshot](https://github.com/Prabodhan29/blush-syntax-forAtom/blob/main/images/html.png?raw=true)
   
