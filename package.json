@@ -1,7 +1,7 @@
 {
-  "name": "blush-ui",
-  "theme": "ui",
-  "version": "0.1.0",
+  "name": "blush-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
   "description": "A dark theme with bright colors",
   "publisher": "Prabodhan",
   "author": {
