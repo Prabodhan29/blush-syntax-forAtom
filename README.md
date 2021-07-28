@@ -17,14 +17,14 @@ Or install through CLI:
 ## **Screenshots**
 
 ### **JavaScript**
-![JS Screenshot](https://github.com/Prabodhan29/blush-syntax-forAtom/blob/main/images/js.png?raw=true)
+![JS Screenshot](https://github.com/Prabodhan29/blush-syntax-forAtom/blob/master/images/js.png?raw=true)
 
 
 ### **HTML**
-![HTML Screenshot](https://github.com/Prabodhan29/blush-syntax-forAtom/blob/main/images/html.png?raw=true)
+![HTML Screenshot](https://github.com/Prabodhan29/blush-syntax-forAtom/blob/master/images/html.png?raw=true)
   
 ### **CSS**
-![CSS Screenshot](https://github.com/Prabodhan29/blush-syntax-forAtom/blob/main/images/css.png?raw=true)
+![CSS Screenshot](https://github.com/Prabodhan29/blush-syntax-forAtom/blob/master/images/css.png?raw=true)
 
 
 
